@@ -1,2 +1,4 @@
-# test-git-conflict
-#this is local change to README.md file
+# test-git-conflict on github
+this is second line
+
+this is the third line
